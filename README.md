@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/c/deetschoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deetschoe" height="30" width="40" /></a>
 </p>
 
-<div style="width:50%;">
+<div style="width:10%;">
   <img src="https://media.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="Frame 1-2" style="width:100%;">
 </div>
 
