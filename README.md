@@ -1,3 +1,7 @@
+<div style="width:10%;">
+  <img src="https://ibb.co/ZGzMTgQ" alt="Header" style="width:100%;">
+</div>
+
 <h1 align="center">Welcome! I'm Deet!</h1>
 <h3 align="center">Entrepreneur & editor; codes on weekends. Café dweller. Might be a Tapioca pearl</h3>
 
@@ -29,8 +33,9 @@
 </p>
 
 <div style="width:10%;">
-  <img src="https://media.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="Frame 1-2" style="width:100%;">
+  <img src="https://media.tenor.com/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="Doge" style="width:100%;">
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
