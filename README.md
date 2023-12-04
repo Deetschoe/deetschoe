@@ -1,6 +1,6 @@
 ![Frame 1-2](https://i.ibb.co/n6MLk1X/1500x500.jpg)
 <h1 align="center">I'm Deet! ✌️</h1>
-<h3 align="center">Entrepreneur & editor; codes on weekends. Café dweller. Might be a Tapioca pearl</h3>
+<h3 align="center">Entrepreneur & editor. Codes on weekends. Café dweller. Might be a Tapioca pearl</h3>
 
 - I help with the Hack Club socials! [Hack Club](https://www.instagram.com/)
 
