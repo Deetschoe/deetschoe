@@ -1,7 +1,4 @@
-<div style="width:10%;">
-  <img src="[https://ibb.co/ZGzMTgQ](https://i.ibb.co/n6MLk1X/1500x500.jpg)" alt="Header" style="width:100%;">
-</div>
-
+![Frame 1-2](https://i.ibb.co/n6MLk1X/1500x500.jpg)
 <h1 align="center">Welcome! I'm Deet!</h1>
 <h3 align="center">Entrepreneur & editor; codes on weekends. Café dweller. Might be a Tapioca pearl</h3>
 
