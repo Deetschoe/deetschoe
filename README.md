@@ -7,7 +7,7 @@
 
 - Cool App I Worked on [Telegrade](https://apps.apple.com/us/app/telegrade/id1667140470)
 
-- Cool VR Expierence I Worked on [Life of chai](https://github.com/Deetschoe/lifeofchai)
+- VR Expierence I Worked on [Life of chai](https://github.com/Deetschoe/lifeofchai)
 
 - Check out me personal website! [https://deet.bio/](https://deet.bio/)
 
