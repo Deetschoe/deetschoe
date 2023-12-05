@@ -1,5 +1,6 @@
 ![Frame 1-2](https://i.ibb.co/n6MLk1X/1500x500.jpg)
 <h1 align="center">I'm Deet! ✌️</h1>
+<h2 align="center">I'm Deet! ✌️</h2>
 
 - I help with the Hack Club socials! [Hack Club](https://www.instagram.com/)
 
@@ -13,7 +14,7 @@
 
 - Hackathon Project that won! [https://devpost.com/software/hack-the-geese](https://devpost.com/software/hack-the-geese)
 
-- 🎋 Ask me about **marketing, building fun projects, boba, japan,**
+- 🎋 Ask me about **Marketing, Building cool projects, Boba🧋, Japan**
 
 - 💌 Reach me at **deet@hackclub.com**
 
