@@ -10,11 +10,11 @@
 
 - VR Expierence I Worked on [Life of chai](https://github.com/Deetschoe/lifeofchai)
 
-- Check out me personal website! [https://deet.bio/](https://deet.bio/)
+- Check out me personal website! [Deet.bio](https://deet.bio/)
 
-- One of my fav projects! [https://youtu.be/nYBHIlbBDw8/]([https://deet.bio](https://youtu.be/nYBHIlbBDw8/)
+- One of my fav projects! [Michigan Magic]([https://deet.bio](https://youtu.be/nYBHIlbBDw8/)
 
-- Hackathon Project that won! [https://devpost.com/software/hack-the-geese](https://devpost.com/software/hack-the-geese)
+- Hackathon Project that won! [Hack the geese](https://devpost.com/software/hack-the-geese)
 
 - 🎋 Ask me about **Marketing, Building cool projects, Boba🧋, Japan**
 
