@@ -12,7 +12,7 @@
 
 - Check out me personal website! [Deet.bio](https://deet.bio/)
 
-- One of my fav projects! [Michigan Magic](https://youtu.be/nYBHIlbBDw8/)
+- VR Expierence I Worked on [Michigan magic](https://www.youtube.com/watch?v=nYBHIlbBDw8)
 
 - Hackathon Project that won! [Hack the geese](https://devpost.com/software/hack-the-geese)
 
