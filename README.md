@@ -20,7 +20,7 @@
 
 - 💌 Reach me at **deet@hackclub.com**
 
-- 🐶🎧 What i listen to [Spotify](https://open.spotify.com/user/deetschoening?si=c1cb9ac8f11147c9&nd=1&dlsi=99e098c0195b48f7)
+- 🐶🎧 What i listen to on [Spotify](https://open.spotify.com/user/deetschoening?si=c1cb9ac8f11147c9&nd=1&dlsi=99e098c0195b48f7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
