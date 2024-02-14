@@ -8,11 +8,11 @@
 
 - Cool App I Worked on [Telegrade](https://apps.apple.com/us/app/telegrade/id1667140470)
 
-- Favorite hackathon project [Life of chai](https://github.com/Deetschoe/lifeofchai)
+- Favorite side project [Life of chai](https://github.com/Deetschoe/lifeofchai)
 
 - Check out me personal website! [Deet.bio](https://deet.bio/)
 
-- VR Expierence I Worked on [Michigan magic](https://www.youtube.com/watch?v=nYBHIlbBDw8)
+- Favorite hackathon project [Michigan magic](https://www.youtube.com/watch?v=nYBHIlbBDw8)
 
 - Hackathon Project that won! [Hack the geese](https://devpost.com/software/hack-the-geese)
 
