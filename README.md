@@ -4,7 +4,7 @@
 
 - Right now i'm creating media for Hack Club, check out some of the videos! [Hack Club](https://www.instagram.com/)
 
-- Fun fact! **I founded a clothing brand called Minimaru Clothing**
+- Fun fact! **I founded a clothing brand called Minimaru Clothing**, working on this during highschool i learned a lot about marketing and scaling clothing products
 
 - Cool App I Worked on [Telegrade](https://apps.apple.com/us/app/telegrade/id1667140470)
 
