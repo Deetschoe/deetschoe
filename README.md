@@ -2,7 +2,7 @@
 <h1 align="center">I'm Deet! ✌️</h1>
 <h3 align="center">An 18 year old living up in ole Vermont ⛰️</h3>
 
-- I help with the Hack Club socials! [Hack Club](https://www.instagram.com/)
+- Right now i'm creating media for Hack Club, check out some of the videos! [Hack Club](https://www.instagram.com/)
 
 - Fun fact! **I founded a clothing brand called Minimaru Clothing**
 
