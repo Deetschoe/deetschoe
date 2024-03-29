@@ -31,7 +31,7 @@
 
 - 🎋 ask me about **Marketing, Building cool projects, Boba🧋, Japan**
 
-- 🐶🎧 my jams [Spotify](https://open.spotify.com/user/deetschoening?si=c1cb9ac8f11147c9&nd=1&dlsi=99e098c0195b48f7)
+- 🐶🎧 if you don't like music you won't like my [Spotify](https://open.spotify.com/user/deetschoening?si=c1cb9ac8f11147c9&nd=1&dlsi=99e098c0195b48f7)
 
 - 💌 send me an email of something cool you are working on! bonus points if its VR related **dieter@serenidad.app*
 
