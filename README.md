@@ -2,27 +2,40 @@
 <h1 align="center">I'm Deet! ✌️</h1>
 <h3 align="center">An 18 year old living up in ole Vermont ⛰️</h3>
 
-- Right now i'm creating media for Hack Club, check out some of the videos! [Hack Club](https://www.instagram.com/)
+- if thats not enough info about me let me tell you what i'm up to right now; I started working at Hack Club in June 2023 and here i'm creating media and leading the social media, [Check out some of my videos](https://www.instagram.com/starthackclub/). When i'm not working on Hack Club stuff i am working with VIRTUAL REALITY! It has been an interest in my life since 6th grade and I usually create games with Thomas. We both created [Serenidad](https://www.instagram.com/buildingserenidad/) in sophmore year highschool with the goal in mind to bring serenity and lately that has been through virtual reality a passion we both share. Anyways enough yapping from me we don't have much time here anyways so go check out some stuff below! 🦖 
 
-- Fun fact! **I founded a clothing brand called Minimaru Clothing**, working on this during highschool I learned a lot about marketing and scaling clothing products
 
-- Cool App I Worked on [Telegrade](https://apps.apple.com/us/app/telegrade/id1667140470)
+## Projects
 
-- Favorite side project [Life of chai](https://github.com/Deetschoe/lifeofchai)
+- first complete VR game [Life of chai](https://github.com/Deetschoe/lifeofchai)
 
-- Check out me personal website! [Deet.bio](https://deet.bio/)
+- my personal website! [Deet.bio](https://deet.bio/)
 
-- Favorite hackathon project [Michigan magic](https://www.youtube.com/watch?v=nYBHIlbBDw8)
+- first ios app to publish, worked with Thomas [Penguins](https://apps.apple.com/us/app/penguin-pair-cards/id6446442403)
 
-- Hackathon Project that won! [Hack the geese](https://devpost.com/software/hack-the-geese)
+- inside out inspired hackathon project [Michigan magic](https://www.youtube.com/watch?v=nYBHIlbBDw8)
 
-- 🎋 Ask me about **Marketing, Building cool projects, Boba🧋, Japan**
+- winner of Hack The North 2023 (Canadas largest hackathon)! [Hack the geese](https://devpost.com/software/hack-the-geese)
 
-- 💌 Reach me at **deet@hackclub.com**
+- capybaras! [Take photos of capys in VR](https://sidequestvr.com/app/31539/capybara-beach)
 
-- 🐶🎧 What i listen to on [Spotify](https://open.spotify.com/user/deetschoening?si=c1cb9ac8f11147c9&nd=1&dlsi=99e098c0195b48f7)
+- multiplayer AR Biking game! [Bike with friends](https://devpost.com/software/bikstar)
 
-<h3 align="left">Connect with me:</h3>
+- built a 7 figure ecomerce business during part of my highschool years its called Minimaru [the beginning](https://www.instagram.com/minimaruclothing/)
+
+- entrepnuer advice app I created with Thomas [Telegrade](https://apps.apple.com/us/app/telegrade/id1667140470)
+
+## Fun Facts
+
+- fun fact: I spent a year studying Japanese and forgot most stuff after I graudated highschool 💀 - But I can read Japanasese (except for Kanji oop)
+
+- 🎋 ask me about **Marketing, Building cool projects, Boba🧋, Japan**
+
+- 🐶🎧 my jams [Spotify](https://open.spotify.com/user/deetschoening?si=c1cb9ac8f11147c9&nd=1&dlsi=99e098c0195b48f7)
+
+- 💌 send me an email of something cool you are working on! bonus points if its VR related **dieter@serenidad.app*
+
+<h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deet" height="30" width="40" /></a>
 <a href="https://twitter.com/deetschoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deetschoe" height="30" width="40" /></a>
