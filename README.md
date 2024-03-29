@@ -25,7 +25,7 @@
 
 - entrepnuer advice app I created with Thomas [Telegrade](https://apps.apple.com/us/app/telegrade/id1667140470)
 
-## Fun Facts
+## last notes
 
 - fun fact: I spent a year studying Japanese and forgot most stuff after I graudated highschool 💀 - But I can read Japanasese (except for Kanji oop)
 
