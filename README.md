@@ -1,5 +1,5 @@
 ![Frame 1-2](https://i.ibb.co/n6MLk1X/1500x500.jpg)
-<h1 align="center">I'm Deet! ✌️</h1>
+<h1 align="center">Deet™</h1>
 <h3 align="center">An 18 year old living up in ole Vermont ⛰️</h3>
 
 - if thats not enough info about me let me tell you what i'm up to right now; I started working at Hack Club in June 2023 and here i'm creating media and leading the social media, [Check out some of my videos](https://www.instagram.com/starthackclub/). When i'm not working on Hack Club stuff i am working with VIRTUAL REALITY! It has been an interest in my life since 6th grade and I usually create games with Thomas. We both created [Serenidad](https://www.instagram.com/buildingserenidad/) in sophmore year highschool with the goal in mind to bring serenity and lately that has been through virtual reality a passion we both share. Anyways enough yapping from me we don't have much time here anyways so go check out some stuff below! 🦖 
