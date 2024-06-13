@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/n6MLk1X/1500x500.jpg" alt="Frame 1-2" style="display: flex; justify-content: center; flex-wrap: wrap; width: 100%;">
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; width: 100%;">
   
 <img src="https://i.giphy.com/m0MfjLtKOgTPG.webp" alt="Doge" style="width:8%;">
