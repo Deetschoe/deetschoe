@@ -18,13 +18,15 @@
 <h3 align="center"></h3>
 
 
-19 yr old trying to code
+19
 
-- When i'm not working on projects I make videos at [Hack Club](https://www.instagram.com/starthackclub/)
-- Building [Serenidad](https://www.instagram.com/buildingserenidad/) is a start up i'm working on with my best friend Thomas
-
+Creating tools for anyone to make amazing storys [Kodan](https://www.instagram.com/buildingserenidad/) 
 
 ## Projects
+
+- at 14yrs i built a 7 figure clothing brand [Minimaru](https://www.instagram.com/minimaruclothing/)
+
+- Grew the social medias to 80K followers on [Hack Club](https://www.instagram.com/starthackclub/)
 
 - first complete VR game [Life of chai](https://github.com/Deetschoe/lifeofchai)
 
@@ -39,8 +41,6 @@
 - capybaras! [Take photos of capys in VR](https://sidequestvr.com/app/31539/capybara-beach)
 
 - multiplayer AR Biking game! [Bike with friends](https://devpost.com/software/bikstar)
-
-- at 14yrs i built a 7 figure clothing brand [Minimaru](https://www.instagram.com/minimaruclothing/)
 
 ## last notes
 
