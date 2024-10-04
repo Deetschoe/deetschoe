@@ -20,7 +20,7 @@
 
 19
 
-Creating tools for anyone to make amazing storys [Kodan](https://www.instagram.com/buildingserenidad/) 
+Creating tools for anyone to make amazing stories [Kodan](https://www.instagram.com/buildingserenidad/) 
 
 ## Projects
 
