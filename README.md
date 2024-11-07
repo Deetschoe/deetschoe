@@ -40,10 +40,6 @@
 
 - created a very dangerous ar biking game [Bike with friends](https://devpost.com/software/bikstar)
 
-## last notes
-
-- 💌 send me an email of something cool you are working on! bonus points if its VR related **dieter@serenidad.app*
-
 ## <h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deet" height="30" width="40" /></a>
