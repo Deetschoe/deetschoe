@@ -42,8 +42,6 @@
 
 ## last notes
 
-- 🐶🎧 [Spotify](https://open.spotify.com/user/deetschoening?si=c1cb9ac8f11147c9&nd=1&dlsi=99e098c0195b48f7)
-
 - 💌 send me an email of something cool you are working on! bonus points if its VR related **dieter@serenidad.app*
 
 ## <h3 align="left">connect with me:</h3>
