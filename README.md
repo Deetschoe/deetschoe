@@ -18,29 +18,27 @@
 <h3 align="center"></h3>
 
 
-19
-
-Creating tools for anyone to make amazing stories [Kodan](https://www.instagram.com/buildingserenidad/) 
+19yr entreprenuer, boba influencer, designing and programming life in sf
 
 ## Projects
 
 - at 14yrs i built a 7 figure clothing brand [Minimaru](https://www.instagram.com/minimaruclothing/)
 
-- Grew the social medias to 80K followers on [Hack Club](https://www.instagram.com/starthackclub/)
+- coded personal website [Deet.bio](https://deet.bio/)
+
+- spent a year at Hack Club doing marketing (grew 80K followers on ig) [Hack Club](https://www.instagram.com/starthackclub/)
 
 - first complete VR game [Life of chai](https://github.com/Deetschoe/lifeofchai)
 
-- my personal website! [Deet.bio](https://deet.bio/)
+- first ios game [Penguins](https://apps.apple.com/us/app/penguin-pair-cards/id6446442403)
 
-- first ios game on app store [Penguins](https://apps.apple.com/us/app/penguin-pair-cards/id6446442403)
+- memory storing vr game [Michigan magic](https://devpost.com/software/magic-in-michigan)
 
-- inside out inspired hackathon project [Michigan magic](https://www.youtube.com/watch?v=nYBHIlbBDw8)
+- selfie battle game hackathon program (won hack the north 2023) [Hack the geese](https://devpost.com/software/hack-the-geese)
 
-- winner of Hack The North 2023 (Canadas largest hackathon)! [Hack the geese](https://devpost.com/software/hack-the-geese)
+- capybara vr game created! [Take photos of capys in VR](https://sidequestvr.com/app/31539/capybara-beach)
 
-- capybaras! [Take photos of capys in VR](https://sidequestvr.com/app/31539/capybara-beach)
-
-- multiplayer AR Biking game! [Bike with friends](https://devpost.com/software/bikstar)
+- created a very dangerous ar biking game [Bike with friends](https://devpost.com/software/bikstar)
 
 ## last notes
 
