@@ -17,8 +17,7 @@
 <h1 align="center">Deet™</h1>
 <h3 align="center"></h3>
 
-
-19yr entrepreneur part time programmer building lasers for music enthusiasts
+19yr old entrepreneur building [lasers](https://nostagrtz.com)
 
 ## Projects
 
