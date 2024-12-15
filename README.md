@@ -17,24 +17,10 @@
 <h1 align="center">Deet™</h1>
 <h3 align="center"></h3>
 
-19yr old entrepreneur building [lasers](https://nostagrtz.com)
+my animation studio [Nostagrtz](https://nostagrtz.com)
 
-## Projects
+my online shop [Pineabur](https://pineabur.com)
 
-- at 14yrs i built a 7 figure clothing brand [Minimaru](https://www.instagram.com/minimaruclothing/)
-
-- coded personal website [Deet.bio](https://deet.bio/)
-
-- spent a year at Hack Club doing marketing (grew 80K followers) [Hack Club](https://www.instagram.com/starthackclub/)
-
-- complted vr game [Life of chai](https://sidequestvr.com/app/27172/life-of-chai)
-
-- ios game [Penguins](https://apps.apple.com/us/app/penguin-pair-cards/id6446442403)
-
-- selfie battle game hackathon program (won hack the north 2023) [Hack the geese](https://devpost.com/software/hack-the-geese)
-
-- created a very dangerous ar biking game [Bike with friends](https://devpost.com/software/bikstar)
-  
 <h3 align="left">connect with me:</h3>
 <p align="left">
 
