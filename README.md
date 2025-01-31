@@ -17,7 +17,7 @@
 
 <h3 align="center">welcome traveler</h3>
 
-<h4 align="center">you have found my coding cave.. since you are here, you might as while check out my projects and repos</h4>
+<h4 align="center">you have found my coding cave.. weclome</h4>
 
 <br>
 
