@@ -19,6 +19,8 @@
 
 <h4 align="center">you have found my coding cave.. weclome</h4>
 
+<h5 align="center">here are the two things im working on full time</h5>
+
 <br>
 
 <img src="https://pbs.twimg.com/profile_images/1822915831262814208/igDFDywQ_400x400.jpg" width="4%"> **[Kodan](https://kodan.app)** - ai animation
