@@ -21,11 +21,9 @@
 
 <br>
 
-<img src="https://pbs.twimg.com/profile_images/1866806371468845056/eUPWn0ak_400x400.jpg" width="4%"> **[Nostagrtz](https://nostagrtz.com)** - work in progress
+<img src="https://pbs.twimg.com/profile_images/1822915831262814208/igDFDywQ_400x400.jpg" width="4%"> **[Kodan](https://kodan.app)** - ai animation
 
-<img src="https://pbs.twimg.com/profile_images/1822915831262814208/igDFDywQ_400x400.jpg" width="4%"> **[Kodan](https://kodan.app)** - an ai anime tool i built in 2024  
-
-<img src="https://pbs.twimg.com/profile_images/1865084757857443841/0809K7B9_400x400.jpg" width="4%"> **[Pineabur](https://pineabur.com)** - a merchandise company based on my series
+<img src="https://pbs.twimg.com/profile_images/1865084757857443841/0809K7B9_400x400.jpg" width="4%"> **[Pineabur](https://pineabur.com)** - go bears
 
 <br>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; width: 100%;">
