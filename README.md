@@ -21,7 +21,7 @@
 
 <h4 align="center">to learn more check me websites</h4>
 
-<h4 align="center">https://dieterschoening.com</h4>
+<h4 align="center">https://dieterschoe.com</h4>
 
 <h4 align="center"> ٩(ˊᗜˋ*)و cya</h4>
 <br>
